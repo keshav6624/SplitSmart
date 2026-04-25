@@ -5,6 +5,8 @@ It helps users track shared expenses, manage balances, and understand who owes w
 
 ---
 
+live URL --  https://splitsmart.streamlit.app/
+
 ## 🔍 Overview
 
 Managing shared expenses with friends, roommates, or teams can get messy.
